@@ -1,6 +1,6 @@
-# jest
+# vue-axios-test
 
-> My world-class Nuxt.js project
+> Use Jest Test Axios.
 
 ## Build Setup
 
@@ -18,5 +18,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
